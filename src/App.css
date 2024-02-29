@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navbar{
+  background-color: #282c34;
+  color: rgb(85, 85, 7);
+  text-align: center;
+  justify-content: center;
+}
+
+
+.hidden{
+  display:none;
+}
+
+
+.inputs{
+  display: block;
+}
+
+
+.btn{
+  background-color: rgb(69, 167, 69) !important;
+}
